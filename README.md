@@ -1,7 +1,4 @@
-## ITHS-AI23-LABB2
-
-- test- and datapoints are found in .\resources
-
+# ITHS-AI23-LABB2
 
 ## Implementing synthetic data and ML to further humankinds ability to differentiate between a Pikachu or an obese Pichu.
 
